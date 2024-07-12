@@ -9,4 +9,4 @@ Link 2: https://mega.nz/file/gsABCQgS#U5JNj8_ZfZqb-zHDIvkn7__QeLNHGkmH_r8wx2NsuY
 ## SQL Server 2019
 Link 1: https://drive.google.com/file/d/1pEJm4PpBINAfKwOWEo2_-EfqRKywm3hr/view?usp=drive_link
 
-Link 2: https://mega.nz/file/c0BBWYxS#hbUkrqRtt4n8kWCNeVU0n00GjxOgo4tTcY2Alkar1Eo
+Link 2: https://drive.google.com/drive/folders/1v_9kBvuwHLhdk0v-Zg1vVINocwdKG4o5
